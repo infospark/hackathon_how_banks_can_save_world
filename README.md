@@ -7,6 +7,8 @@ This repository contains artefacts created by team "A&amp;J" during the How Can 
 Aditya Patel is a quantitative analyst at IHS Markit specialising in products that measure financial risk in capital markets
 Jim Plant is software developer (alumni of IHS Markit) specialising in software within financial risk and latterly payments technology
 
+We are happy for our names and the contents of this Git Repo to be used in connection with this hackathon. 
+
 This was our first hackathon. We'd been very interesting in taking part in one - waiting for the alignment of interesting subject matter, free weekend and a challenging brief. 
 
 ## Our Methodology
