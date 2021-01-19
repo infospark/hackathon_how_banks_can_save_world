@@ -4,7 +4,7 @@
 This repository contains artefacts created by team "A&amp;J" during the How Can Banks Save The World Hackathon, 16/17 Jan 2021. Such artefacts are open source and free to use/copy etc.
 
 ## Our team
-Aditya Patel is a quantitative analyst at IHS Markit specialising in products that measure financial risk in capital markets
+Aditya Pandit is a quantitative analyst at IHS Markit specialising in products that measure financial risk in capital markets
 Jim Plant is software developer (alumni of IHS Markit) specialising in software within financial risk and latterly payments technology
 
 We are happy for our names and the contents of this Git Repo to be used in connection with this hackathon. 
